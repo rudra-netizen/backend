@@ -1,0 +1,5 @@
+Middleware can do the folloiwng tasks :
+
+-> request ke data ko modify kar sakte hai
+
+-> response send kar sakte hai
